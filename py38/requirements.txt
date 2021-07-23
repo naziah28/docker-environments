@@ -6,10 +6,12 @@ jupyterlab
 
 # Networking ? 
 boto3 
+aws-sso-credential-provider
 
 # Visualisation 
 matplotlib
 missingno
+colorcet 
 
 # Image files 
 Pillow
