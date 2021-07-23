@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  py38:
+    build: .
+    image: py38

@@ -1,0 +1,16 @@
+# Data science 
+pandas 
+numpy
+scikit-learn
+jupyterlab
+
+# Networking ? 
+boto3 
+
+# Visualisation 
+matplotlib
+missingno
+
+# Image files 
+Pillow
+opencv-python
