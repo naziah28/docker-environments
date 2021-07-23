@@ -1,0 +1,8 @@
+pyvista 
+vtk
+pyvistaqt 
+moviepy 
+
+aws-sso-credential-provider
+plotnine 
+pyqt5==5.14.0
