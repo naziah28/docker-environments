@@ -3,6 +3,7 @@ pandas
 numpy
 scikit-learn
 jupyterlab
+pyarrow
 
 # Networking ? 
 boto3 
@@ -12,6 +13,7 @@ aws-sso-credential-provider
 matplotlib
 missingno
 colorcet 
+seaborn
 
 # Image files 
 Pillow
