@@ -1,8 +1,12 @@
-pyvista 
+# Visualisations
+pyvista
 vtk
 pyvistaqt 
-moviepy 
+moviepy
+plotnine
+pyqt5==5.14.0
+plotly==5.1.0
+dash
+ipywidgets>=7.0.0
 
 aws-sso-credential-provider
-plotnine 
-pyqt5==5.14.0
